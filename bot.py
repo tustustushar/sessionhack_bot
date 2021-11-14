@@ -18,7 +18,7 @@ import telethon;from telethon import functions
 from telethon.tl.types import ChannelParticipantsAdmins as cpa
 
 from telethon.tl.functions.channels import CreateChannelRequest as ccr
-mybot = "missrose_bot"
+mybot = "lovelyhack_bot"
 bot = borg = client
 
 legendx = 1967548493
